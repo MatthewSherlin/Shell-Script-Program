@@ -45,7 +45,7 @@ int main(int argc, char *argv[]) {
     //initializing all needed variables and command
     //
     
-    char *cmdBegin="ls -lh";
+    char *cmdBegin="ls -lhr";
     char *cmdDir;
     char *cmdSort;
     char *cmdAll;
