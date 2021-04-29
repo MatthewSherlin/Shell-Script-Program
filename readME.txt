@@ -1,5 +1,4 @@
 Matthew Michael Sherlin
-Homework 5 for Systems Programming
 
 Makefile runs as follows:
 'make run' to create executable for function. It will create an executable under the name 'pipe'
